@@ -1,0 +1,23 @@
+{
+  "name": "san-immer",
+  "version": "0.0.1",
+  "description": "immer for san-store",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meixg/san-immer.git"
+  },
+  "author": "meixg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/meixg/san-immer/issues"
+  },
+  "homepage": "https://github.com/meixg/san-immer#readme",
+  "dependencies": {
+    "immer": "^9.0.6"
+  }
+}
